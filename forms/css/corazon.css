@@ -19,6 +19,7 @@
     border-radius: 50px 50px 0 0;
 }
  
+<!-- este before y after sirven para encimar la imagen--> 
 .corazon::before, .corazon::after {
     position: absolute;
     content: "";
